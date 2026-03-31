@@ -1,1 +1,1 @@
-https://github.com/usrssssx/mesto-production.git
+https://github.com/usrssssx/mesto-main.git
